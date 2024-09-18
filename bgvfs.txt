@@ -1,1 +1,2 @@
 Name: pragathy
+Passout year: 2024
